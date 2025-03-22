@@ -45,7 +45,7 @@
 
 
 
-<a><img src='https://i.ibb.co/wJBxKV4/74421a3c5d94ac0a.jpg'/></a>
+<a><img src='https://files.catbox.moe/n4fjap.jpg'/></a>
 
 ## 𝗦𝗨𝗣𝗣𝗢𝗥𝗧 𝗨𝗦 𝗕𝗬 𝗧𝗜𝗠𝗡𝗔𝗦𝗔 𝗧𝗠𝗗 𝗧𝗛𝗘𝗦𝗘 𝗟𝗜𝗡𝗞𝗦
 
@@ -64,7 +64,7 @@
   
 
 
-Enjoy the diverse features of RHODVICKEZ-MD  to enhance your Whatsapp more enjoyable
+Enjoy the diverse features of TIMNASA-TMD  to enhance your Whatsapp more enjoyable
 
 
 #
