@@ -1,5 +1,4 @@
-# TIMNASA_TMD2
-<a><img src='https://files.catbox.moe/n4fjap.jpg'/></a>
+<a><img src='https://i.ibb.co/wJBxKV4/74421a3c5d94ac0a.jpg'/></a>
 <h1 align="center"> RHODVICKEZ-MD </h1>
 
  
@@ -21,7 +20,7 @@
 
   
 
-<a href="https://github.com/Next5x/TIMNASA_TMD2/fork"><img src="https://img.shields.io/badge/CLICK%20HERE-purple" alt="FORK TIMNASA TMD" width="150"></a>
+<a href="https://github.com/Rhodvick/RHODVICKEZ-MD/fork"><img src="https://img.shields.io/badge/CLICK%20HERE-purple" alt="FORK RHODVICKEZ-MD" width="150"></a>
 
   <a href="https://power-session.silvatechinc.my.id/pair"><img title="GET-SESSION ID HERE" src="https://img.shields.io/badge/GET-SESSION ID HERE-h?color=green&style=for-the-badge&logo=kenya" width="230" height="38.45"/></a></p>
 
@@ -30,7 +29,7 @@
 ###  𝐃𝐄𝐏𝐋𝐎𝐘 𝐎𝐍 𝐇𝐄𝐑𝐎𝐊𝐔:
 
 
- ***[![Tap to deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/Next5x/TIMNASA_TMD2&template=https://github.com/Next5x/TIMNASA_TMD2.git)***
+ ***[![Tap to deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/Rhodvick/RHODVICKEZ-MD&template=https://github.com/Rhodvick/RHODVICKEZ-MD.git)***
 
 <br>
 
@@ -38,7 +37,7 @@
 **𝗛𝗢𝗦𝗧 𝗢𝗡 𝗗𝗜𝗦𝗖𝗢𝗥𝗗**
 <details>
 <summary>CLICK FOR MORE</summary>
-<a href="https://github.com/Next5x/TIMNASA_TMD2/archive/refs/heads/main.zip"><img src="https://img.shields.io/badge/DOWNLOAD%20FILES-yellow" alt="Rainhost Files" width="150"></a>
+<a href="https://github.com/Rhodvick/RHODVICKEZ-MD/archive/refs/heads/main.zip"><img src="https://img.shields.io/badge/DOWNLOAD%20FILES-yellow" alt="Rainhost Files" width="150"></a>
   
 <a href="https://bot-hosting.net/?aff=1259151615210819614"><img src="https://img.shields.io/badge/SIGNUP%20&%20DEPLOY-gold" alt="Scalingo Deploy" width="150"></a>
 </details
@@ -48,24 +47,24 @@
 
 <a><img src='https://i.ibb.co/wJBxKV4/74421a3c5d94ac0a.jpg'/></a>
 
-## 𝗦𝗨𝗣𝗣𝗢𝗥𝗧 𝗨𝗦 𝗕𝗬 𝗧𝗜𝗠𝗡𝗔𝗦𝗔 𝗧𝗠𝗗 𝗧𝗛𝗘𝗦𝗘 𝗟𝗜𝗡𝗞𝗦
+## 𝗦𝗨𝗣𝗣𝗢𝗥𝗧 𝗨𝗦 𝗕𝗬 𝗝𝗢𝗜𝗡𝗜𝗡𝗚 𝗧𝗛𝗘𝗦𝗘 𝗟𝗜𝗡𝗞𝗦
 
 **𝗚𝗿𝗼𝘂𝗽**
-- <a href="https://chat.whatsapp.com/BgNXVP0zSl8KqUrLFfdJMP" target="_blank">
+- <a href="https://chat.whatsapp.com/KuX57n5cBId0UtTk8u9RSl" target="_blank">
     <img alt="CLICK HERE" src="https://img.shields.io/badge/ JOIN OUR WHATSAPP GROUP  -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 
 
-**𝗧𝗜𝗠𝗡𝗔𝗦𝗔 𝗧𝗠𝗗 𝗖𝗛𝗔𝗡𝗡𝗘𝗟 𝗪𝗔𝗣**
+**𝗖𝗵𝗮𝗻𝗻𝗲𝗹**
 <p align="centre">
-  <a href="https://whatsapp.com/channel/0029VajweHxKQuJP6qnjLM31">
+  <a href="https://whatsapp.com/channel/0029VabySTR9Bb5upWFhMv1N">
     <img align="left" alt="SIEGRIN | Whastapp" width="86px" src="https://raw.githubusercontent.com/PikaBotz/My_Personal_Space/main/Images/AnyaBot_pics/Anya_v2/Whatsapp.svg" />
   
 
   
 
 
-Enjoy the diverse features of TIMNASA-TMD  to enhance your Whatsapp more enjoyable
+Enjoy the diverse features of RHODVICKEZ-MD  to enhance your Whatsapp more enjoyable
 
 
 #
